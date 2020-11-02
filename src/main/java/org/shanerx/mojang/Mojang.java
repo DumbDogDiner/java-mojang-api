@@ -303,7 +303,6 @@ public class Mojang
      */
     public enum ServiceStatus
     {
-
         RED,
         YELLOW,
         GREEN,

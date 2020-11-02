@@ -87,6 +87,8 @@ public class PlayerProfile {
 		}
 	}
 
+	// TODO: Optifine Capes
+
 	/**
 	 * <p>Constructor for the class.
 	 * <p>You may use {@code new Mojang().connect().getPlayerProfile(uuid)} to retrieve the instance as it will verify the validity of the parameters.
